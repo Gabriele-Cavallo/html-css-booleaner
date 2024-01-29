@@ -19,6 +19,9 @@ h1{
     color: #808080 ;
     font-size: 25px;
 }
+.subtitle{
+    font-size: 10px;
+}
 .highlighted{
     background-color: yellow;
 }
