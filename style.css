@@ -18,3 +18,27 @@ h1{
 #credits{
     color: #808080 ;
 }
+.highlighted{
+    background-color: yellow;
+}
+#title{
+    background-color: #20A9E5;
+    width: 1630px;
+    text-align: left;
+    color: white;
+}
+.lorem{
+    width: 25%;
+}
+.azure{
+    background-color:#B1E5F2;
+    color: black;
+}
+.white{
+    background-color: white;
+    color: black;
+}
+.line{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
