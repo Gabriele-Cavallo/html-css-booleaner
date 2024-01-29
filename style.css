@@ -25,6 +25,9 @@ h1{
 .highlighted{
     background-color: yellow;
 }
+#align{
+    margin-left: -25px;
+}
 #title{
     background-color: #20A9E5;
     width: 1630px;
