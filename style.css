@@ -15,8 +15,9 @@ header{
 h1{
     font-size: 34px;
 }
-#credits{
+#credits, h2{
     color: #808080 ;
+    font-size: 25px;
 }
 .highlighted{
     background-color: yellow;
@@ -41,4 +42,20 @@ h1{
 .line{
     margin-top: 20px;
     margin-bottom: 30px;
+}
+.link{
+    height: 320px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 15px;
+    padding-left: 10px;
+    color: white;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.uno{
+    background-image:url(./img/monitor.jpg);
+}
+.due{
+    background-image:url(./img/graph.jpg);
 }
